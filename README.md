@@ -31,3 +31,25 @@ CustomEncryptionSystem/
 
 ## Usage :-
 Run the program via terminal or any **Python IDE** like **PyCharm**.
+
+## Why This Project ?
+This project was created as part of an internship task to implement cryptographic logic from scratch, avoiding pre-built libraries like cryptography or hashlib.
+It helped reinforce:
+**Algorithm Design**
+**String Manipulation**
+**Low-level Encryption Theory**
+
+## Tech Stack :-
+-Python 3.x
+-No external libraries
+-Built using PyCharm
+-(**Frontend** in progress... coming soon via **Streamlit**)
+
+## License :-
+This project is open-source and free to use. 
+If you remix or reuse, just give credit where it’s due! 
+
+## Author :-
+**Nandini Saxena**
+B.Tech CSE | Amity University Gwalior
+Task 1 developed for **MainFlow Internship**
