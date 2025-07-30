@@ -50,6 +50,6 @@ This project is open-source and free to use.
 If you remix or reuse, just give credit where it’s due! 
 
 ## Author :-
-**Nandini Saxena**
-B.Tech CSE | Amity University Gwalior
-Task 1 developed for **MainFlow Internship**
+- **Nandini Saxena**
+- B.Tech CSE | Amity University Gwalior
+- Task 1 developed for **MainFlow Internship**
