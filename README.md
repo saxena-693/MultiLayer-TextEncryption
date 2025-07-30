@@ -40,10 +40,10 @@ It helped reinforce :
 3. **Low-level Encryption Theory**
 
 ## Tech Stack :-
--Python 3.x
--No external libraries
--Built using PyCharm
--(**Frontend** in progress... coming soon via **Streamlit**)
+1.Python 3.x
+2.No external libraries
+3.Built using PyCharm
+4.(**Frontend** in progress... coming soon via **Streamlit**)
 
 ## License :-
 This project is open-source and free to use. 
