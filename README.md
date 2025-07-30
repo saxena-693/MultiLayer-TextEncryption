@@ -22,7 +22,7 @@ This project simulates real-world encryption pipelines, built completely from sc
 2. **Reverse String**
 3. **Caesar Decrypt** → Reverses the Caesar shift
 
-## 📂 Project Structure :-
+##  Project Structure :-
 CustomEncryptionSystem/
 ├── Main.py # The main encryption/decryption script
 ├── Input.txt # Input text samples (one per line)
