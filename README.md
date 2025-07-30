@@ -4,11 +4,11 @@ Welcome to a Python-based custom encryption-decryption system that layers multip
 This project simulates real-world encryption pipelines, built completely from scratch (with zero built-in crypto libraries).
 
 ## Features :-
--✤ **Caesar Cipher** — classic shift-based encryption
--✤ **String Reversal** — to distort patterns and enhance obfuscation
--✤ **ASCII Shifting** — adds extra byte-level transformation
--✤ Supports **file input & output**
--✤ Interactive **command-line interface**
+✤ **Caesar Cipher** : classic shift-based encryption
+✤ **String Reversal** : to distort patterns and enhance obfuscation
+✤ **ASCII Shifting** : adds extra byte-level transformation
+✤ Supports **file input & output**
+✤ Interactive **command-line interface**
 
 ## How It Works :-
 
@@ -30,5 +30,4 @@ CustomEncryptionSystem/
 └── README.md # This file 
 
 ## Usage :-
-
 Run the program via terminal or any **Python IDE** like **PyCharm**.
