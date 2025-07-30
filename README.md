@@ -34,10 +34,10 @@ Run the program via terminal or any **Python IDE** like **PyCharm**.
 
 ## Why This Project ?
 This project was created as part of an internship task to implement cryptographic logic from scratch, avoiding pre-built libraries like cryptography or hashlib.
-It helped reinforce:
-**Algorithm Design**
-**String Manipulation**
-**Low-level Encryption Theory**
+It helped reinforce : 
+1. **Algorithm Design**
+2. **String Manipulation**
+3. **Low-level Encryption Theory**
 
 ## Tech Stack :-
 -Python 3.x
